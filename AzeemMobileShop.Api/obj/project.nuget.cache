@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+KzmH90twk=",
+  "dgSpecHash": "TIb633cXjmc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\StudentManagement\\AzeemMobileShop.Api\\AzeemMobileShop.Api.csproj",
+  "projectFilePath": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobiles\\AzeemMobileShop.Api\\AzeemMobileShop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SURFACE\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\SURFACE\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",

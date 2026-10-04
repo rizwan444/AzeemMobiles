@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobileShop\\AzeemMobileShop.Shared\\AzeemMobileShop.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobiles\\AzeemMobileShop.Shared\\AzeemMobileShop.Shared.csproj",
       "projectName": "AzeemMobileShop.Shared",
-      "projectPath": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobileShop\\AzeemMobileShop.Shared\\AzeemMobileShop.Shared.csproj",
+      "projectPath": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobiles\\AzeemMobileShop.Shared\\AzeemMobileShop.Shared.csproj",
       "packagesPath": "C:\\Users\\SURFACE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobileShop\\AzeemMobileShop.Shared\\obj\\",
+      "outputPath": "C:\\Users\\SURFACE\\.gemini\\antigravity\\scratch\\AzeemMobiles\\AzeemMobileShop.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SURFACE\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,6 +26,7 @@
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

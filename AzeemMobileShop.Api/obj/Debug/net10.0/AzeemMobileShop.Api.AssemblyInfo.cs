@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzeemMobileShop.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+895f6505de9554644d34c3f59d3122748e9197da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+779913f3e9b4fe87ba7e1ae8608213098e66bf0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzeemMobileShop.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzeemMobileShop.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
